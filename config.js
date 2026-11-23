@@ -22,7 +22,7 @@ const CONFIG = {
     { src: "assets/photos/photo9.jpg",  date: "Random skincare night",   caption: "Just us being silly" },
     { src: "assets/photos/photo10.jpg", date: "Random Tuesday", caption: "My favorite view" },
     { src: "assets/photos/photo11.jpg", date: "Today",        caption: "Still choosing you" },
-    { src: "assets/photos/photo12.jpg", date: "Always",       caption: "Us" }
+    { src: "assets/photos/photo12.JPG", date: "Always",       caption: "Us" }
   ],
   coverPhoto: 11,   // index into photos (0 = first). Used on cover + final page.
 
