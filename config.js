@@ -22,7 +22,7 @@ const CONFIG = {
     { src: "assets/photos/photo9.jpg",  date: "Random skincare night",   caption: "Just us being silly" },
     { src: "assets/photos/photo10.jpg", date: "Random Tuesday", caption: "My favorite view" },
     { src: "assets/photos/photo11.jpg", date: "Today",        caption: "Still choosing you" },
-    { src: "assets/photos/photo12.jpg", date: "Always",       caption: "Us" }
+    { src: "assets/photos/photo12.JPG", date: "Always",       caption: "Us" }
   ],
   coverPhoto: 11,   // index into photos (0 = first). Used on cover + final page.
 
@@ -63,7 +63,7 @@ const CONFIG = {
   adventures: {
     title: "Our Adventures",
     photos: [4, 5, 6],
-    timeline: [ "First food trip", "Beach day", "Road trip", "Movie night", "Birthday surprise" ]
+    timeline: [ "First food trip", "Beach days", "Road trips", "Movie nights", "Birthday surprise", "Coffee Dates", "Trying out Airbnbs", "Hiking", "Required Eat Outs on Paydays", "Discovering New Coffee Shops", "Spontaneous Dates", "Trying new restaurants", "Balut Dates", "Shopping", "Doing things for the first time together", "Random cravings that turn into dates", "Steak Nights"]
   },
   thinkOfYou: {
     title: "Things That Make Me Think of You",
